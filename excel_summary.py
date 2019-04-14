@@ -8,7 +8,7 @@ import glob
 import openpyxl
 
 
-dir = '/Users/jifeihe/Documents/Work/AI_Chatbot/Data'
+dir = ''
 name_excel='Jan 13th Hotel no summary.xlsx'
 os.chdir(dir)
 os.chdir(dir)
