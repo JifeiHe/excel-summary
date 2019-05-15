@@ -9,11 +9,11 @@ import openpyxl
 import csv
 
 
-dir = '/Users/jifeihe/Desktop/China_Telecom/DiscoverOrg'
+dir = ''
 os.chdir(dir)
 os.chdir(dir)
 
-name_excel='DiscoverOrg_PERSON_152498_20190501133358.csv'
+name_excel=''
 conditions ='Filter.xlsx'
 #Read states name list
 dfs = pd.read_excel(conditions, ignore_index=True)
